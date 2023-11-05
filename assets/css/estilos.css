@@ -27,6 +27,11 @@ body {
   color: #373a3c;
 }
 
+#Acerca-de-mi .fa-solid {
+  font-size: 50px;
+}
+
+
 @media (max-width: 768px) {
   #Contacto form label {
     font-weight: 400;
